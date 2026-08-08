@@ -130,6 +130,15 @@ This removes the need for repeatedly downloading forecast CSV files and manually
 
 Python | Pandas | NumPy | Scikit-learn | LightGBM | XGBoost | SHAP | Streamlit | Plotly | Google Gemini | PostgreSQL | Supabase | SQLAlchemy | Power BI
 
+## 👥 Team Members
+
+This project was collaboratively developed as part of our Summer Training in Data Science and Data Analytics.
+
+- **Shree Sharma**
+- **Sparsh Bhardwaj**
+- **Chandni Kumar**
+- **Aniket Singh**
+
 ## 📁 Repository Structure
 
 ```text
