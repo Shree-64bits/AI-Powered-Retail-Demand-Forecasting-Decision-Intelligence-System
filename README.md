@@ -158,6 +158,7 @@ retail-demand-forecasting/
     ├── demand-forecast.png
     ├── decision-intelligence.png
     ├── gemini-insights.png
+    ├── gemini-chat-assistance.png
     └── powerbi-dashboard.png
 ```
 ---
