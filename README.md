@@ -147,7 +147,7 @@ retail-demand-forecasting/
 ├──  📓 retail-demand-forecasting.ipynb
 ├──  📄 Requirements.txt
 ├──  📊 retail_store_inventory.csv
-├──   📄README.md
+├──  📄 README.md
 │
 └── screenshots/
     ├── streamlit-dashboard.png
