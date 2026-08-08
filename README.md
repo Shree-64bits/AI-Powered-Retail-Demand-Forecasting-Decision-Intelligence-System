@@ -144,11 +144,10 @@ This project was collaboratively developed as part of our Summer Training in Dat
 ```text
 retail-demand-forecasting/
 │
-├── retail-demand-forecasting.ipynb
-├── requirements.txt
-├── .gitignore
-├── README.md
-│── Data Set
+├──  📓 retail-demand-forecasting.ipynb
+├──  📄 Requirements.txt
+├──  📊 retail_store_inventory.csv
+├──   📄README.md
 │
 └── screenshots/
     ├── streamlit-dashboard.png
