@@ -122,6 +122,10 @@ This removes the need for repeatedly downloading forecast CSV files and manually
 
 ![Gemini Insights](screenshots/gemini-insights.png)
 
+### Chat Assistance 
+
+![Gemini Assistance](screenshots/gemini-chat-assistance.png)
+
 ### Power BI Dashboard
 
 ![Power BI Dashboard](screenshots/powerbi-dashboard.png)
