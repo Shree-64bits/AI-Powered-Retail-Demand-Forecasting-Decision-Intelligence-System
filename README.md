@@ -128,7 +128,7 @@ This removes the need for repeatedly downloading forecast CSV files and manually
 
 ## 🛠️ Technology Stack
 
-Python | Pandas | NumPy | Scikit-learn | LightGBM | XGBoost | SHAP | Streamlit | Plotly | Google Gemini | PostgreSQL | Supabase | SQLAlchemy | Power BI
+Python | Pandas | NumPy | Scikit-learn | LightGBM | XGBoost | Matplotlib | Streamlit | Plotly | Google Gemini | PostgreSQL | Supabase | Streamlit | Power BI | Google Colab
 
 ## 👥 Team Members
 
